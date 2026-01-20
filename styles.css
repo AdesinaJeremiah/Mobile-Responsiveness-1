@@ -655,7 +655,7 @@
 }
 
 .service_card {
-  background-image: url("/xu-haiwei-fv1EFjgIb94-unsplash.jpg");
+  background-image: url("./xu-haiwei-fv1EFjgIb94-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -675,7 +675,7 @@
 }
 
 .service_cardtwo {
-  background-image: url("/taitopia-render-rA13-oNSfh4-unsplash.jpg");
+  background-image: url("./taitopia-render-rA13-oNSfh4-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
